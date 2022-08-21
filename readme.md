@@ -1,6 +1,6 @@
 <h1 align="center">
-    Boni - Public Page
+    BONI Website
 </h1>
 
 --------
-#### Built with :blue-heart: by Marcos Bonifasi in :guatemala:
+#### Built with :blue_heart: by Marcos Bonifasi in :guatemala:
